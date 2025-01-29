@@ -3,4 +3,5 @@ env
 env2
 dataset2001_2024.csv
 py9
-gpu
+plaidml
+plaidml2
